@@ -1,0 +1,171 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad",
+
+      "fan_banner":"YOUR_PLACEMENT_ID",
+      "fan_inter":"YOUR_PLACEMENT_ID",
+      "fan_native":"YOUR_PLACEMENT_ID"
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 17267504,
+    "name_skin": "",
+    "skin_url": "https://lh4.ggpht.com/CgLYhP2brYZhi6h8DhaweNYLTNiRn1ecdi1mEDuWaFedSIf6TsHL7OonA6fXKdGqpe_rtkjX5HTpZaqM5orB-no",
+    "view_skin": "https://lh3.googleusercontent.com/tNkh69NLyq9axD77ZHVn6uSTqeZlEz9rpFjZhtHL7XChApbslQzsQb21O4XLIJmZ-goX6uuqUIurszH59_lf5Q"
+  },
+  {
+    "id": 15713284,
+    "name_skin": "",
+    "skin_url": "https://lh3.ggpht.com/c5ekshRR6nQzwKEPSc7zB_qvbkbdtpNzM45SDZP0JGTOOviEnggZv2231pXBBdds4xKySF0tTGLnFPDRDUikP_c",
+    "view_skin": "https://lh3.googleusercontent.com/sDr6zb5q3C8laytCRkhnecLM3Kp3GU-YhNFm0Y2AtsplUiUpjV36s6RPFxYAxBW-k0B1ykF-sU8mhQZ3LGU9WQ"
+  },
+  {
+    "id": 12249445,
+    "name_skin": "",
+    "skin_url": "https://lh3.ggpht.com/ovWxPoqX2fHQYtNqp4_5FFyNUj09YElM50CWl3eYu9yX1RsaPHWAbHAPpQhYZVAnXJFLfE6Y6rorcsFcviklLg",
+    "view_skin": "https://lh3.googleusercontent.com/Vos-FuO64iKkT5ofAC_YLRAJw4xZ_osrBSt-tV8QMx7c9NBK5ffaa5vcicerCmlqvCyNa78fCO21vlGKNwASOg"
+  },
+  {
+    "id": 12212603,
+    "name_skin": "",
+    "skin_url": "https://lh3.ggpht.com/blMYzveYxfx07foKAmeBZBxdtx0WvWVDM7bbXOmw8E_eC97IL6a6wGwuZ0iUuiYH6HB3VxFz4ih2OO9xzo6REQ",
+    "view_skin": "https://lh3.googleusercontent.com/Q5tQYbY78tlMPdBpZ3s9FOPj-18mLSlOdDPNUTcVJ-hnnNRFpWw82glJY86VSgEU4BTs-7VcsZJAxqAHVC1d"
+  },
+  {
+    "id": 10734377,
+    "name_skin": "",
+    "skin_url": "https://lh5.ggpht.com/8yU6fRXZiPl_oW85DRAGbKdyOrYHYUyApWud8RgUGQHuFRp2P0iJWYps1ZpP_HQYkNkIXcb8u3u091qygnDiuQ",
+    "view_skin": "https://lh3.googleusercontent.com/sPgbageklqHKNo2cK878FaxCa8AiOmtWD4NBJpv5l2PEXJqxmgJjYlvgHfIc4j3mzcO7eYqu0hfuuCCEMf-OOQ"
+  },
+  {
+    "id": 7805947,
+    "name_skin": "",
+    "skin_url": "https://lh6.ggpht.com/4SDAWrC83owOaXvKvP9wcJVSbvVIdqqqxeRSuAKytJCJng0KMoToZyTSP1X9W45ML1Uj0aRkMsrtnhorzhIMBg",
+    "view_skin": "https://lh3.googleusercontent.com/F4RHiAFL1ZfGxsXpyAM9mKDA6VnR8UXmho7QnayzuzFZte_mza0H5KJN2N-ZgmY8v_rh9s0B-XdERUxZNUHGyQ"
+  },
+  {
+    "id": 5639464139,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/djC_oHXJPsJhUkKkYYWtWqhNHAiHuDFRtuBNgdbLe9g6-DBF2XCnlN5gjMA-qTfYK59xWy6bjSPIkQjD2BgiLeG483GNYwKUtw",
+    "view_skin": "https://lh3.googleusercontent.com/WMkJSHGFo3-Vc5StpWw27jKL6LM5wmEINvYxG2DLgKKyLgjoRt-3ChVJ2qLluypOEwKrv9w-8RvTFF62F5m0E96S7Dr7kilK4g"
+  },
+  {
+    "id": 4798834541,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/3AjZkxDUmvq5rIx_DnvSvNcV_wy_uoy5cc1gh6d-AO3Zg5BFX1p32RvVJ1--OkqZLSCd2Rw6Hly9_LRPrT86JimLyKQzAbZOAB-7",
+    "view_skin": "https://lh3.googleusercontent.com/2tD_YMHVW8P4LXSMNMFr2O2QUO1_RlOeeSNOBF_nn3oV_0vIKBjHz5IWLd_mYy4jqktuYu8qj3hqOxAIU-VvZyG1Fioh0w61Cw"
+  },
+  {
+    "id": 5171429733826560,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/bsvq3-d2DUG8QfimPr2WPpUj7bcY-V0uTx3B4G_j3KQORAhghPsc4mVbwdhDG4TCtsM5Nw5Br4-VGiUkVmGRRg",
+    "view_skin": "https://lh3.googleusercontent.com/yMJYnbM7IxxpmViG_5SyLCgimsgMBw2lH4kDl1pKfuCLQNl2w9-JlyujhiLnY4qh4dVuEWuyhBioT27vyEpA"
+  },
+  {
+    "id": 4720062201069568,
+    "name_skin": "",
+    "skin_url": "https://lh4.ggpht.com/dI4Ssbw8dQFzElLJg_hTcG54xRCgF1l7tzEAgWm69duQNTgJojmZ4PfslyE2lgMnBqHZdWd3A5_eVCcG_w1Adg",
+    "view_skin": "https://lh3.googleusercontent.com/Foa5GK5wxFONUzCkge50Zh3E3ROLyRv3eBs-9NZcLubxbNuhK2PnFXTMhWkMp7cgyHCGtIcJW0nx5f7qVLN75HY"
+  },
+  {
+    "id": 5118497568849920,
+    "name_skin": "",
+    "skin_url": "https://lh5.ggpht.com/4fOa1SwDSb7azcD-2iDGwK4f8NsFLPmUIZEPoWvSStIVtdLNwvYSWFj8CxXEw5ij5uqRzU-c_mwA3McFD_ly",
+    "view_skin": "https://lh3.googleusercontent.com/hIucFC2u048pV-d5g3eUPJZb1q0145_imVrmFwT2FcEFjzGUhqju1m5ami4AeuXqCU0YYODoZGnF_dg4OlgmaA"
+  },
+  {
+    "id": 5380066280210432,
+    "name_skin": "",
+    "skin_url": "https://lh6.ggpht.com/Q4e4knkxakPw8Z0-_DorC4ap1nhUmdMA-qchsL7CEmSuI0BrguHnYn24xOiomX8QcZUnPq1k9erpioxUTYarnQ",
+    "view_skin": "https://lh3.googleusercontent.com/vpJQlOAnxr1f7_Dr5Kd5NeRJMSik1MJerBnVMavYyjHJksu67WVBCXmYLyGantlAN-SQXTcOIweez_SRbngBthc"
+  },
+  {
+    "id": 4572935356416000,
+    "name_skin": "",
+    "skin_url": "https://lh5.ggpht.com/_Cf7ldTwiQ5zvdns6_wpRSBmbnhPCq6iqzDwzy-FrOeiQ-_vcIZO7a3R_TlNicyKtvGUe-srs3SF3uBoS-B8UQ",
+    "view_skin": "https://lh3.googleusercontent.com/oIv0ukjvjE28npwetk5-ANzFqQrX2LnuzEvRP8J3rNu1qoR6iFEB_lgZ8NjPl8Tw896-GqTi6AnYcvVngsVaaw"
+  },
+  {
+    "id": 5211197175496704,
+    "name_skin": "",
+    "skin_url": "https://lh6.ggpht.com/BF68-9HEirjBNryA5WycsiOi5Sdm3iQAiW203Ru9LPhRGGEGwD5CXLm8qrlHtXr2p3w0w_jH7y32ysGn4aT9cQ",
+    "view_skin": "https://lh3.googleusercontent.com/KTo6oiba3lfd8JWTg25XAvjpNzyzFN_My7-NwDkQIwl9Ntrd9QjXgJCNXxRAOgehgOUMHtl--H0WlvuwY2LWHA"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
